@@ -1,0 +1,1 @@
+Application for Android that gives you informations about the weather in specify location 
